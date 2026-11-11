@@ -1,0 +1,24 @@
+{
+  "name": "tienda-ropa-sena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatisbrinez0622lapatrona-droid/tienda-go-and-glow-o-MyApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tatisbrinez0622lapatrona-droid/tienda-go-and-glow-o-MyApplication/issues"
+  },
+  "homepage": "https://github.com/tatisbrinez0622lapatrona-droid/tienda-go-and-glow-o-MyApplication#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
